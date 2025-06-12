@@ -1,7 +1,4 @@
-# Appian: AI-Driven Web Development Assistant
-
-## Overview
-Appian is a web application designed to assist developers in creating, analyzing, and improving HTML, CSS, and JavaScript code. Leveraging advanced AI capabilities, Appian provides suggestions for UX design, best practices, performance optimization, and more. This tool aims to enhance the web development process by offering real-time feedback and improvements.
+#AI-Driven Web Development Assistant
 
 ## Features
 - **AI-Powered Code Analysis**: Analyze your HTML, CSS, and JavaScript code with AI-driven suggestions for improvements.
@@ -23,8 +20,8 @@ Appian is a web application designed to assist developers in creating, analyzing
 ### Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/valiant-disciple/appian.git
-   cd appian
+   git clone https://github.com/shlok-chandak/web-dev-assistant.git
+   cd web-dev-assistant
    ```
 
 2. **Create a Virtual Environment** (optional but recommended):
@@ -63,4 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any questions or support, please contact [Arya Sikder](mailto:aryasikder17@gmail.com).
+For any questions or support, please contact [Shlok Chandak](mailto:shlokchandakk@gmail.com).
